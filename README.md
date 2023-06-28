@@ -1,4 +1,5 @@
-# Code-of-conduct: Ñañas Coding
+# Code of conduct: Ñañas Coding
+
 At Ñañas Coding, we are committed to creating an inclusive and supportive learning environment for women interested in programming. We believe that fostering a respectful and inclusive community is essential for personal growth, skill development, and empowerment. As such, we expect all community members, including students, mentors, and guest speakers, to adhere to the following Code of Conduct:
 
 ## Expected Behavior
